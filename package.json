@@ -1,7 +1,7 @@
 {
     "name": "com.zutari.packagecreator",
     "displayName": "Package Creator",
-    "version": "0.9",
+    "version": "1.0.0",
     "unity": "2019.1",
     "description": "An editor tool that helps you setup the initial layout of your new editor, runtime or standard project.\nThe tools allows you to create Package json file as well as the required Readme, Changelog and \nThirdPartyLicense md files.\n\nYou can test your package by exporting it temporarily to the package folder to view and update\nadditional package.json settings that is required by the unity package manager.\n\nNB! \nAll packages require one or more Assembly Definitions to separate your logic into blocks, such as\nRuntime and Editor.",
     "keywords": [
