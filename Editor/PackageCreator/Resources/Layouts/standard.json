@@ -1,0 +1,14 @@
+{
+  "paths": [
+    "_Project/",
+    "_Project/Resources/",
+    "_Project/Resources/Prefabs/",
+    "_Project/Resources/Scenes/",
+    "_Project/Resources/Scenes/Examples/",
+    "_Project/Scripts/",
+    "_Project/Scripts/Editor/",
+    "_Project/Scripts/Runtime/",
+    "Addons/",
+    "Plugins/"
+  ]
+}

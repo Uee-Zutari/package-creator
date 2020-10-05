@@ -1,0 +1,7 @@
+{
+  "paths": [
+    "Addons/",
+    "Plugins/",
+    "Scripts/Editor/"
+  ]
+}
