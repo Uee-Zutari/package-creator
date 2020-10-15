@@ -9,20 +9,7 @@ You can test your package by exporting it temporarily to the package folder to v
 additional package.json settings that is required by the unity package manager.
 
 NB! 
-All packages require one or more Assembly Definitions to separate your logic into blocks, such as\nRuntime and Editor.
-
-
-## Work Codes
-LEARNDEVZ | INT | TECH
-
-<!-- MORE CONTENT -->
-
-## Client
-Zutari
+All packages require one or more Assembly Definitions to separate your logic into blocks, such as Runtime and Editor.
 
 ## Contributors
 + Ubaidullah Effendi-Emjedi
-
-
-## Social
-https://zutarilive.sharepoint.com/sites/ctiv-experts-live/SitePages/Home.aspx
