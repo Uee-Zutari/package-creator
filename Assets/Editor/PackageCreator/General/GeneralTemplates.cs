@@ -103,12 +103,12 @@ namespace Zutari.PackageCreator.General
             return $"{header}\n{url}";
         }
 
-        private static string AddList(List<string> items, string preText = "+")
+        private static string AddList(List<string> items, string listSymbol = "+")
         {
             StringBuilder builder = new StringBuilder();
             foreach (string item in items)
             {
-                builder.Append($"{preText}{item}\n");
+                builder.Append($"{listSymbol} {item}\n");
             }
 
             return $"{builder}";
